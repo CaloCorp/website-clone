@@ -93,6 +93,6 @@ color:inherit}
 
 .bottom-left-corner a:hover {text-decoration: underline;}
 
-.bottom-left-corner.bottom-right-corner li a {float:right;
+.bottom-left-corner .bottom-right-corner li {float:right;
 }
 
