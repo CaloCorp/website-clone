@@ -18,11 +18,14 @@ padding: 10px;}
 .top-right-corner li {float: left;
 padding: 10px;}
 
+.searchbar {text-align: center;}
 .searchbar input {margin: auto;
 width: 481.9px;
 height: 43.99px; 
-text-align: center;}
-
+text-align: left;
+align-content: center;
+display: inline-block;
+}
 
 
 
